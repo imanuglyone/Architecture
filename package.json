@@ -1,0 +1,12 @@
+{
+  "name": "days-until-new-year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Danil Popov 2471",
+  "license": "ISC"
+}
